@@ -6,7 +6,7 @@ The project was co-authored by [Buarzej](https://github.com/Buarzej).
 
 ## Usage
 
-To see the output on the provided test use
+To view the output for the provided test, use:
 ```
 g++ -Wall -Wextra -O2 -std=c++20 *.cc
 ```
